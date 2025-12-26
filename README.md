@@ -6,7 +6,7 @@ The project was developed for academic purposes to illustrate how misconfigured 
 
 ## Contents
 - Presentation explaining the vulnerability
-- Three demonstrations showing different PoC scenarios
+- Two demonstrations showing different PoC scenarios
 
 ## Disclaimer
 This repository is for educational purposes only. No real-world exploitation is intended.
